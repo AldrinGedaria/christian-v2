@@ -213,7 +213,10 @@ a{
 .ml16{
     overflow: hidden;
 }
-
+main{
+    max-width: 1920px;
+    margin: 0 auto;
+}
 section{
     padding: 2rem;
 }
